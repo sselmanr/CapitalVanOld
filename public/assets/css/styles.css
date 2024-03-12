@@ -1,0 +1,29 @@
+:root{
+  --bg-oscuro: #212529;
+  --amarillo: #f7a109;
+  --amarillo-oscuro:#5c4601;
+}
+body{
+  background-color: var(--bg-oscuro);
+  height: 100%;
+}
+.gradiente{
+  background: linear-gradient(345deg, var(--amarillo) 23%, var(--amarillo-oscuro) 40%, var(--bg-oscuro) 55%);
+}
+.logo-navbar{
+  width: 15rem;
+}
+section {
+  height: 100vh;
+}
+hr{
+  width: 90%;
+  height: 2px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+.borde-blanco{
+  border: solid 1px whitesmoke;
+}
