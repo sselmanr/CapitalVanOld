@@ -5,16 +5,17 @@
 }
 body{
   background-color: var(--bg-oscuro);
-  height: 100%;
+  min-height: 100vh;
+  padding: 0;
 }
 .gradiente{
-  background: linear-gradient(345deg, var(--amarillo) 23%, var(--amarillo-oscuro) 40%, var(--bg-oscuro) 55%);
+  background: linear-gradient(350deg, var(--amarillo) 3%, var(--amarillo-oscuro) 13%, var(--bg-oscuro) 30%);
 }
 .logo-navbar{
   width: 15rem;
 }
 section {
-  height: 100vh;
+
 }
 hr{
   width: 90%;
