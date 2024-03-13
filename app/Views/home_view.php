@@ -50,9 +50,9 @@
     </div>
     <div class="col col-3 text-center">
       <a href="#">
-        <img src="public/assets/img/caja_chica.svg" alt="Boton para confirmar servicio" width="50">
+        <img src="public/assets/img/registro_pagos.svg" alt="Boton para confirmar servicio" width="50">
         <br>
-        Caja shica
+        Registro de pagos
       </a>
     </div>
     <div class="col col-3 text-center">
@@ -64,11 +64,11 @@
     </div>
   </div>
   <div class="row pb-4 pt-4">
-  <div class="col col-3 text-center">
+    <div class="col col-3 text-center">
       <a href="#">
-        <img src="public/assets/img/registro_pagos.svg" alt="Boton para confirmar servicio" width="50">
+        <img src="public/assets/img/caja_chica.svg" alt="Boton para confirmar servicio" width="50">
         <br>
-        Registro de pagos
+        Caja de gastos menores
       </a>
     </div>
     <div class="col col-3 text-center">
